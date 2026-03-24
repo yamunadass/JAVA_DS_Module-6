@@ -15,6 +15,7 @@ To write a Java program  to Count the number of inversions in an array where inv
 Developed by: Yamuna M
 RegisterNumber: 212223230248
 ```
+```
 import java.util.Scanner;
 
 public class CountInversions {
@@ -65,7 +66,6 @@ public class CountInversions {
 }
 
 
-*/
 ```
 
 ## Output:
